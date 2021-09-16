@@ -1,0 +1,38 @@
+
+
+*****************************
+DOCUMENTATION
+*****************************
+
+This Project is on the Library Mannagment System , the Project keep the track of the
+all the books, user can add the new book, can delete the olderr edision of the book
+of the book which is lost.
+
+The Software also take care of the Issusing the book to the student, Keep the data of 
+book issused and the book return and tell how many extra day the book has been due.
+
+*******************************
+HEADER FILE USED
+*******************************
+
+#include<fstream.h>
+#include<conio.h>
+#include<stdio.h>
+#include<process.h>
+#include<string.h>
+#include<iomanip.h>
+
+*************************
+FUNCTION USED
+*************************
+create_book()
+show_book()
+modify_book()
+report()
+show_student()
+modify_student()
+write_book()
+write_student()
+
+
+

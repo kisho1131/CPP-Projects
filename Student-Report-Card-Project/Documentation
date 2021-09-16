@@ -1,0 +1,38 @@
+
+***********************************
+DOCUMENTATION :
+***********************************
+
+STUDENT REPORT CARD PROJECT 
+
+It is simple project in c++ of the Report card Generation for the student.
+In the project user can enter Record of the student can calculate the grade
+of the student according to the marks obtained.
+
+Projets creates the .dat file which hold the record of the student.
+
+
+************************************************
+FUNCTION USED WITH THERE DISCRIPTION:
+************************************************
+
+Function :                  Details:
+~~~~~~~~~~                  ~~~~~~~~~~
+
+void write_student();	  write the record in binary file *****
+void display_all();		  read all records from binary file
+void display_sp(int);	  accept rollno and read record from binary file
+void modify_student(int); accept rollno and update record of binary file
+void delete_student(int); accept rollno and delete selected records from binary file
+void class_result();	  display all records in tabular format from binary file
+void result();      	  display result menu
+void intro();	          display welcome screen
+void entry_menu();	      display entry menu on screen
+
+
+******************************
+SOFTWARE REQUIREMENTS
+******************************
+
+# Turbo C++.
+
